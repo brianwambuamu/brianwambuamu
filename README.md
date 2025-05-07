@@ -1,10 +1,8 @@
-## Hi, I'm Brian Wambua 〽️
+## Hi, Folks! 👋🤓
 
-♠️ A junior software Engineer Graduate from Moringa School and Zetech University<br>
+🤪 I am Brian Wambua, Software Engineer<br>
 ♠️ I create fully responsive web and mobile apps<br>
-
-
-
+📱 I have much ❤️ for mobile<br>
 
 
 
